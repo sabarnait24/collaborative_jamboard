@@ -35,23 +35,7 @@ const AboutPage = () => {
         <p className="mb-2">
           You can find the source code for the backend on GitHub:
         </p>
-        <a
-          href="https://github.com/ManavSarkar/collaborative-jamboard"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-600 hover:underline mb-4 inline-block"
-        >
-          Backend Code
-        </a>
-        <p className="mb-2">And the frontend code on GitHub:</p>
-        <a
-          href="https://github.com/ManavSarkar/collaborative-jamboard-frontend"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-600 hover:underline mb-4 inline-block"
-        >
-          Frontend Code
-        </a>
+        
       </div>
       <div>
         <h2 className="text-2xl font-semibold mb-4">Meet the Creators:</h2>
